@@ -37,6 +37,3 @@ This Python script implements a simple graphical user interface (GUI) for a keyl
 - Ensure that you have appropriate consent before using keylogging software.
 - Consider adding additional features such as encryption or password protection for the log file for security purposes.
 
----
-
-Feel free to customize or expand upon this README file based on your specific requirements or use case. Remember to always prioritize ethical considerations and respect privacy when working with keylogging software or any form of technology.
